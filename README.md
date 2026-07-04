@@ -1,12 +1,13 @@
 # Hi there, I'm Akshay Thakur 👋
 
-I'm a passionate developer building modern web applications and full-stack products.
-I love working on projects that blend clean UI, scalable backend systems, and practical real-world impact.
+I'm a full-stack developer focused on building modern, scalable, and user-centric web applications.
+
+I enjoy turning ideas into polished products — from frontend experience to backend architecture and deployment.
 
 ## 🚀 About Me
-- 💻 Full-stack developer focused on building impactful products
-- 🌱 Currently exploring deeper into modern TypeScript ecosystems and scalable system design
-- 🛠️ Enjoy building end-to-end apps from idea to deployment
+- 💼 Building impactful products with clean UI + robust backend systems
+- 🧠 Interested in TypeScript ecosystems, scalable architecture, and AI-integrated apps
+- 🛠️ Love shipping end-to-end projects from concept to production
 
 ## 🧰 Tech Stack
 
@@ -25,7 +26,7 @@ I love working on projects that blend clean UI, scalable backend systems, and pr
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database & Auth
+### Databases & Auth
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,supabase" />
 </p>
@@ -36,9 +37,12 @@ I love working on projects that blend clean UI, scalable backend systems, and pr
 </p>
 
 ## 📌 Featured Projects
-- **[Res_AI](https://github.com/Thakur-Akshay04/Res_AI)** — AI Resume Builder & ATS Optimizer built with React, Express, MongoDB, Clerk Auth, and Groq API.
-- **[CredValut](https://github.com/Thakur-Akshay04/CredValut)** — Decentralized academic credential registry using Solidity, React, Express, MongoDB, and Supabase auth.
-- **[Luminote](https://github.com/Thakur-Akshay04/Luminote)** — New TypeScript-based project currently in progress.
+- **[Res_AI](https://github.com/Thakur-Akshay04/Res_AI)** — AI Resume Builder & ATS Optimizer using React, Express, MongoDB, Clerk Auth, and Groq API.
+- **[CredValut](https://github.com/Thakur-Akshay04/CredValut)** — Decentralized academic credential verification using Solidity + MERN + Supabase auth.
+- **[Luminote](https://github.com/Thakur-Akshay04/Luminote)** — TypeScript-based product currently in development.
+
+## 🌐 Portfolio
+- 🔗 **[thakurakshay.dev](https://thakurakshay.dev/)**
 
 ## 📊 GitHub Stats
 <p>
@@ -46,10 +50,16 @@ I love working on projects that blend clean UI, scalable backend systems, and pr
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thakur-Akshay04&layout=compact&theme=tokyonight" />
 </p>
 
-## 🤝 Connect With Me
+## 🤝 Connect
 <p>
-  <a href="https://github.com/Thakur-Akshay04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Thakur-Akshay04">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://thakurakshay.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
+
 ⭐️ From [Thakur-Akshay04](https://github.com/Thakur-Akshay04)
