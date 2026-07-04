@@ -50,11 +50,6 @@ I am passionate about creating high-performance digital experiences, experimenti
 - 🔗 **[thakurakshay.dev](https://thakurakshay.dev/)** — Personal portfolio & projects
 - 💻 **[GitHub Profile](https://github.com/Thakur-Akshay04)** — All projects & contributions
 
-## 📊 GitHub Stats
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thakur-Akshay04&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thakur-Akshay04&layout=compact&theme=tokyonight" />
-</p>
 
 ## 💡 Core Competencies
 - **Full-Stack Development**: Complete MERN stack architecture and development
