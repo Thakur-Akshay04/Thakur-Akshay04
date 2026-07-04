@@ -39,7 +39,7 @@ I am passionate about creating high-performance digital experiences, experimenti
 
 ### DevOps & Tools
 | Docker | Git | Clerk |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 | <img height="50" src="https://skillicons.dev/icons?i=docker" title="Docker" /> | <img height="50" src="https://skillicons.dev/icons?i=git" title="Git" /> | <img height="50" src="https://skillicons.dev/icons?i=github" title="GitHub" /> | <img height="50" src="https://via.placeholder.com/50/FF6C37/FFFFFF?text=Clerk" title="Clerk" /> |
 
 ## 🌐 Portfolio & Links
