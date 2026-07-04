@@ -23,9 +23,9 @@ I am passionate about creating high-performance digital experiences, experimenti
 | <img height="50" src="https://skillicons.dev/icons?i=react" title="React.js" /> | <img height="50" src="https://skillicons.dev/icons?i=nextjs" title="Next.js" /> | <img height="50" src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" /> | <img height="50" src="https://skillicons.dev/icons?i=css" title="CSS3" /> |
 
 ### Backend & APIs
-| Node.js | Express.js | FastAPI | REST APIs |
+| Node.js | Express.js | FastAPI | REST |
 |:---:|:---:|:---:|:---:|
-| <img height="50" src="https://skillicons.dev/icons?i=nodejs" title="Node.js" /> | <img height="50" src="https://skillicons.dev/icons?i=express" title="Express.js" /> | <img height="50" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" /> | <img height="50" src="https://via.placeholder.com/50/FF6C37/FFFFFF?text=REST" title="REST APIs" /> |
+| <img height="50" src="https://skillicons.dev/icons?i=nodejs" title="Node.js" /> | <img height="50" src="https://skillicons.dev/icons?i=express" title="Express.js" /> | <img height="50" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" /> | <img height="50" src="https://skillicons.dev/icons?i=api" title="REST" /> |
 
 ### Databases & Cache
 | MongoDB | PostgreSQL | MySQL | Redis |
@@ -38,9 +38,9 @@ I am passionate about creating high-performance digital experiences, experimenti
 - **OpenAI** — GPT models for intelligent features
 
 ### DevOps & Tools
-| Docker | Git | Clerk |
-|:---:|:---:|:---:|
-| <img height="50" src="https://skillicons.dev/icons?i=docker" title="Docker" /> | <img height="50" src="https://skillicons.dev/icons?i=git" title="Git" /> | <img height="50" src="https://skillicons.dev/icons?i=github" title="GitHub" /> | <img height="50" src="https://via.placeholder.com/50/FF6C37/FFFFFF?text=Clerk" title="Clerk" /> |
+| Docker | Git | GitHub | Auth |
+|:---:|:---:|:---:|:---:|
+| <img height="50" src="https://skillicons.dev/icons?i=docker" title="Docker" /> | <img height="50" src="https://skillicons.dev/icons?i=git" title="Git" /> | <img height="50" src="https://skillicons.dev/icons?i=github" title="GitHub" /> | <img height="50" src="https://skillicons.dev/icons?i=auth0" title="Authentication" /> |
 
 ## 🌐 Portfolio & Links
 - 🔗 **[thakurakshay.dev](https://thakurakshay.dev/)** — Personal portfolio & projects
