@@ -25,7 +25,7 @@ I am passionate about creating high-performance digital experiences, experimenti
 ### Backend & APIs
 | Node.js | Express.js | FastAPI | REST APIs |
 |:---:|:---:|:---:|:---:|
-| <img height="50" src="https://skillicons.dev/icons?i=nodejs" title="Node.js" /> | <img height="50" src="https://skillicons.dev/icons?i=express" title="Express.js" /> | <img height="50" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" /> | <img height="50" src="https://img.shields.io/badge/REST%20API-0B5FFF?style=for-the-badge&logo=openapiinitiative&logoColor=white" title="REST APIs" /> |
+| <img height="50" src="https://skillicons.dev/icons?i=nodejs" title="Node.js" /> | <img height="50" src="https://skillicons.dev/icons?i=express" title="Express.js" /> | <img height="50" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" /> | <img height="50" src="https://icons.germondai.com/icons?i=openapi" title="REST APIs" /> |
 
 ### Databases & Cache
 | MongoDB | PostgreSQL | MySQL | Redis |
@@ -33,9 +33,9 @@ I am passionate about creating high-performance digital experiences, experimenti
 | <img height="50" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" /> | <img height="50" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" /> | <img height="50" src="https://skillicons.dev/icons?i=mysql" title="MySQL" /> | <img height="50" src="https://skillicons.dev/icons?i=redis" title="Redis" /> |
 
 ### AI & ML
-- **Meta Llama-3** — Open-source LLM integration
-- **Groq API** — High-performance AI inference
-- **OpenAI** — GPT models for intelligent features
+| Meta Llama 3 | Groq | OpenAI |
+|:---:|:---:|:---:|
+| <img height="50" src="https://icons.germondai.com/icons?i=ollama" title="Meta Llama 3" /> | <img height="50" src="https://icons.germondai.com/icons?i=groq" title="Groq API" /> | <img height="50" src="https://icons.germondai.com/icons?i=openai" title="OpenAI" /> |
 
 ### DevOps & Tools
 | Docker | Git | Clerk |
