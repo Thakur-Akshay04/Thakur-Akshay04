@@ -1,13 +1,14 @@
 # Hi there, I'm Akshay Thakur 👋
 
-I'm a full-stack developer focused on building modern, scalable, and user-centric web applications.
+I'm a Full-stack / MERN developer focused on crafting clean user interfaces and highly efficient API architectures. I build responsive, modern web applications.
 
-I enjoy turning ideas into polished products — from frontend experience to backend architecture and deployment.
+I am passionate about creating high-performance digital experiences, experimenting with modern web standards, and integrating intelligent AI features into full-stack systems.
 
 ## 🚀 About Me
-- 💼 Building impactful products with clean UI + robust backend systems
-- 🧠 Interested in TypeScript ecosystems, scalable architecture, and AI-integrated apps
-- 🛠️ Love shipping end-to-end projects from concept to production
+- 💼 Full-stack developer specializing in MERN stack with clean, scalable architectures
+- 🎨 Crafting responsive, modern user interfaces with excellent performance
+- 🧠 Passionate about AI integration, high-performance systems, and modern web standards
+- ⚡ Building end-to-end applications from concept to production
 
 ## 🧰 Tech Stack
 
@@ -32,9 +33,9 @@ I enjoy turning ideas into polished products — from frontend experience to bac
 | <img height="50" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" /> | <img height="50" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" /> | <img height="50" src="https://skillicons.dev/icons?i=mysql" title="MySQL" /> | <img height="50" src="https://skillicons.dev/icons?i=redis" title="Redis" /> |
 
 ### AI & ML
-- **Meta Llama-3** — Open-source LLM
-- **Groq API** — AI inference
-- **OpenAI** — GPT models
+- **Meta Llama-3** — Open-source LLM integration
+- **Groq API** — High-performance AI inference
+- **OpenAI** — GPT models for intelligent features
 
 ### DevOps & Tools
 | Docker | Git | GitHub | Clerk |
@@ -42,11 +43,11 @@ I enjoy turning ideas into polished products — from frontend experience to bac
 | <img height="50" src="https://skillicons.dev/icons?i=docker" title="Docker" /> | <img height="50" src="https://skillicons.dev/icons?i=git" title="Git" /> | <img height="50" src="https://skillicons.dev/icons?i=github" title="GitHub" /> | <img height="50" src="https://skillicons.dev/icons?i=clerk" title="Clerk" /> |
 
 ### Authentication & Security
-- **Clerk** — Modern authentication
+- **Clerk** — Modern authentication solutions
 - **Supabase Auth** — Open-source Firebase alternative
 
 ## 🌐 Portfolio & Links
-- 🔗 **[thakurakshay.dev](https://thakurakshay.dev/)** — Personal portfolio
+- 🔗 **[thakurakshay.dev](https://thakurakshay.dev/)** — Personal portfolio & projects
 - 💻 **[GitHub Profile](https://github.com/Thakur-Akshay04)** — All projects & contributions
 
 ## 📊 GitHub Stats
@@ -55,13 +56,14 @@ I enjoy turning ideas into polished products — from frontend experience to bac
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thakur-Akshay04&layout=compact&theme=tokyonight" />
 </p>
 
-## 💡 Expertise Areas
-- **Full-Stack Development**: End-to-end application architecture
-- **Frontend**: React, Next.js, Tailwind CSS, responsive design
-- **Backend**: Node.js, Express, FastAPI, REST APIs, scalable architecture
-- **Databases**: MongoDB, PostgreSQL, MySQL, Redis caching
-- **AI Integration**: LLM APIs, Meta Llama-3, Groq inference
-- **DevOps**: Docker containerization, deployment pipelines
+## 💡 Core Competencies
+- **Full-Stack Development**: Complete MERN stack architecture and development
+- **Frontend UI/UX**: Responsive design, modern React patterns, performance optimization
+- **Backend Architecture**: Efficient API design, scalable server solutions, database optimization
+- **AI Integration**: LLM APIs, intelligent feature implementation, AI-powered applications
+- **Performance**: High-performance digital experiences, optimization, and caching strategies
+- **Modern Web Standards**: Latest technologies, best practices, and industry standards
+- **DevOps & Deployment**: Docker containerization, CI/CD pipelines, cloud deployment
 
 ## 🤝 Connect With Me
 <p>
