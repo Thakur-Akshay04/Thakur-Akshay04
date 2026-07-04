@@ -25,7 +25,7 @@ I am passionate about creating high-performance digital experiences, experimenti
 ### Backend & APIs
 | Node.js | Express.js | FastAPI | REST APIs |
 |:---:|:---:|:---:|:---:|
-| <img height="50" src="https://skillicons.dev/icons?i=nodejs" title="Node.js" /> | <img height="50" src="https://skillicons.dev/icons?i=express" title="Express.js" /> | <img height="50" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" /> | <img height="50" src="https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white" title="REST APIs" /> |
+| <img height="50" src="https://skillicons.dev/icons?i=nodejs" title="Node.js" /> | <img height="50" src="https://skillicons.dev/icons?i=express" title="Express.js" /> | <img height="50" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" /> | <svg height="50" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><rect width="200" height="200" fill="#007ACC"/><text x="100" y="110" font-size="48" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">REST</text></svg> |
 
 ### Databases & Cache
 | MongoDB | PostgreSQL | MySQL | Redis |
@@ -40,7 +40,7 @@ I am passionate about creating high-performance digital experiences, experimenti
 ### DevOps & Tools
 | Docker | Git | GitHub | Clerk |
 |:---:|:---:|:---:|:---:|
-| <img height="50" src="https://skillicons.dev/icons?i=docker" title="Docker" /> | <img height="50" src="https://skillicons.dev/icons?i=git" title="Git" /> | <img height="50" src="https://skillicons.dev/icons?i=github" title="GitHub" /> | <img height="50" src="https://img.shields.io/badge/Clerk-6C63FF?style=flat&logo=clerk&logoColor=white" title="Clerk" /> |
+| <img height="50" src="https://skillicons.dev/icons?i=docker" title="Docker" /> | <img height="50" src="https://skillicons.dev/icons?i=git" title="Git" /> | <img height="50" src="https://skillicons.dev/icons?i=github" title="GitHub" /> | <svg height="50" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><rect width="200" height="200" fill="#6366F1" rx="8"/><circle cx="60" cy="80" r="15" fill="white"/><circle cx="140" cy="80" r="15" fill="white"/><path d="M 70 130 Q 100 150 130 130" stroke="white" stroke-width="8" fill="none" stroke-linecap="round"/></svg> |
 
 ## 🌐 Portfolio & Links
 - 🔗 **[thakurakshay.dev](https://thakurakshay.dev/)** — Personal portfolio & projects
