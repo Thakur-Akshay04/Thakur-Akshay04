@@ -35,25 +35,6 @@ I enjoy turning ideas into polished products — from frontend experience to bac
 - **Clerk** — Modern authentication
 - **Supabase Auth** — Open-source Firebase alternative
 
-## 📌 Featured Projects
-
-### 🤖 [Res_AI](https://github.com/Thakur-Akshay04/Res_AI)
-AI Resume Builder & ATS Optimizer
-- **Tech Stack**: React, Express, MongoDB, Clerk Auth, Groq API
-- **Features**: AI-powered resume generation, ATS optimization, real-time suggestions
-- **Status**: Production-ready
-
-### 🔐 [CredValut](https://github.com/Thakur-Akshay04/CredValut)
-Decentralized Academic Credential Verification
-- **Tech Stack**: Solidity, MERN (MongoDB, Express, React, Node), Supabase Auth
-- **Features**: Blockchain-based credential verification, decentralized storage
-- **Status**: Production-ready
-
-### 📝 [Luminote](https://github.com/Thakur-Akshay04/Luminote)
-TypeScript-based product in development
-- **Tech Stack**: TypeScript, Modern web technologies
-- **Status**: In active development
-
 ## 🌐 Portfolio & Links
 - 🔗 **[thakurakshay.dev](https://thakurakshay.dev/)** — Personal portfolio
 - 💻 **[GitHub Profile](https://github.com/Thakur-Akshay04)** — All projects & contributions
