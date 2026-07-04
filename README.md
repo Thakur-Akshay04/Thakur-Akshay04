@@ -33,7 +33,7 @@ I enjoy turning ideas into polished products — from frontend experience to bac
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github" />
 </p>
 
 ## 📌 Featured Projects
