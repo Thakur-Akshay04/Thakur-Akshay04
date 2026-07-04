@@ -12,16 +12,24 @@ I enjoy turning ideas into polished products — from frontend experience to bac
 ## 🧰 Tech Stack
 
 ### Languages
-<img height="50" src="https://skillicons.dev/icons?i=ts,js,python,html5" />
+| TypeScript | JavaScript | Python | HTML5 |
+|:---:|:---:|:---:|:---:|
+| <img height="50" src="https://skillicons.dev/icons?i=ts" title="TypeScript" /> | <img height="50" src="https://skillicons.dev/icons?i=js" title="JavaScript" /> | <img height="50" src="https://skillicons.dev/icons?i=python" title="Python" /> | <img height="50" src="https://skillicons.dev/icons?i=html5" title="HTML5" /> |
 
 ### Frontend Development
-<img height="50" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css" />
+| React.js | Next.js | Tailwind CSS | CSS3 |
+|:---:|:---:|:---:|:---:|
+| <img height="50" src="https://skillicons.dev/icons?i=react" title="React.js" /> | <img height="50" src="https://skillicons.dev/icons?i=nextjs" title="Next.js" /> | <img height="50" src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" /> | <img height="50" src="https://skillicons.dev/icons?i=css" title="CSS3" /> |
 
 ### Backend & APIs
-<img height="50" src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+| Node.js | Express.js | FastAPI | REST APIs |
+|:---:|:---:|:---:|:---:|
+| <img height="50" src="https://skillicons.dev/icons?i=nodejs" title="Node.js" /> | <img height="50" src="https://skillicons.dev/icons?i=express" title="Express.js" /> | <img height="50" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" /> | <img height="50" src="https://skillicons.dev/icons?i=postman" title="REST APIs" /> |
 
 ### Databases & Cache
-<img height="50" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+| MongoDB | PostgreSQL | MySQL | Redis |
+|:---:|:---:|:---:|:---:|
+| <img height="50" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" /> | <img height="50" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" /> | <img height="50" src="https://skillicons.dev/icons?i=mysql" title="MySQL" /> | <img height="50" src="https://skillicons.dev/icons?i=redis" title="Redis" /> |
 
 ### AI & ML
 - **Meta Llama-3** — Open-source LLM
@@ -29,7 +37,9 @@ I enjoy turning ideas into polished products — from frontend experience to bac
 - **OpenAI** — GPT models
 
 ### DevOps & Tools
-<img height="50" src="https://skillicons.dev/icons?i=docker,git,github" />
+| Docker | Git | GitHub | Clerk |
+|:---:|:---:|:---:|:---:|
+| <img height="50" src="https://skillicons.dev/icons?i=docker" title="Docker" /> | <img height="50" src="https://skillicons.dev/icons?i=git" title="Git" /> | <img height="50" src="https://skillicons.dev/icons?i=github" title="GitHub" /> | <img height="50" src="https://skillicons.dev/icons?i=clerk" title="Clerk" /> |
 
 ### Authentication & Security
 - **Clerk** — Modern authentication
