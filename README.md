@@ -61,7 +61,6 @@ I enjoy turning ideas into polished products — from frontend experience to bac
 - **Backend**: Node.js, Express, FastAPI, REST APIs, scalable architecture
 - **Databases**: MongoDB, PostgreSQL, MySQL, Redis caching
 - **AI Integration**: LLM APIs, Meta Llama-3, Groq inference
-- **Blockchain**: Smart contracts, decentralized applications
 - **DevOps**: Docker containerization, deployment pipelines
 
 ## 🤝 Connect With Me
