@@ -5,7 +5,7 @@ Full-stack developer crafting modern interfaces, APIs, and AI-powered experience
 I am passionate about creating high-performance digital experiences, experimenting with modern web standards, and integrating intelligent AI features into full-stack systems.
 
 ## 🚀 About Me
-- 💼 Full-stack developer specializing in MERN stack with clean, scalable architectures
+- 💼 Full-stack developer specializing with clean, scalable architectures
 - 🎨 Crafting responsive, modern user interfaces with excellent performance
 - 🧠 Passionate about AI integration, high-performance systems, and modern web standards
 - ⚡ Building end-to-end applications from concept to production
