@@ -1,6 +1,6 @@
 # Hi there, I'm Akshay Thakur 👋
 
-I'm a Full-stack / MERN developer focused on crafting clean user interfaces and highly efficient API architectures. I build responsive, modern web applications.
+Full-stack developer crafting modern interfaces, APIs, and AI-powered experiences
 
 I am passionate about creating high-performance digital experiences, experimenting with modern web standards, and integrating intelligent AI features into full-stack systems.
 
