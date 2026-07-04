@@ -12,29 +12,19 @@ I enjoy turning ideas into polished products — from frontend experience to bac
 ## 🧰 Tech Stack
 
 ### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,solidity" />
-</p>
+<img height="50" src="https://skillicons.dev/icons?i=js,ts,solidity" />
 
 ### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css" />
-</p>
+<img height="50" src="https://skillicons.dev/icons?i=react,vite,html,css" />
 
 ### Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<img height="50" src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ### Databases & Auth
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase" />
-</p>
+<img height="50" src="https://skillicons.dev/icons?i=mongodb,supabase" />
 
 ### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github" />
-</p>
+<img height="50" src="https://skillicons.dev/icons?i=docker,nginx,git,github" />
 
 ## 📌 Featured Projects
 - **[Res_AI](https://github.com/Thakur-Akshay04/Res_AI)** — AI Resume Builder & ATS Optimizer using React, Express, MongoDB, Clerk Auth, and Groq API.
