@@ -11,26 +11,29 @@ I enjoy turning ideas into polished products — from frontend experience to bac
 
 ## 🧰 Tech Stack
 
-### Languages & Core
-<img height="50" src="https://skillicons.dev/icons?i=js,ts,solidity" />
+### Languages
+<img height="50" src="https://skillicons.dev/icons?i=ts,js,python,html5" />
 
 ### Frontend Development
-<img height="50" src="https://skillicons.dev/icons?i=react,vite,html,css" />
+<img height="50" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css" />
 
 ### Backend & APIs
-<img height="50" src="https://skillicons.dev/icons?i=nodejs,express" />
+<img height="50" src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
-### Databases & Authentication
-<img height="50" src="https://skillicons.dev/icons?i=mongodb,supabase" />
+### Databases & Cache
+<img height="50" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
 
-### DevOps & Cloud
-<img height="50" src="https://skillicons.dev/icons?i=docker,nginx,git,github" />
+### AI & ML
+- **Meta Llama-3** — Open-source LLM
+- **Groq API** — AI inference
+- **OpenAI** — GPT models
 
-### Additional Tools
-- **AI/ML Integration**: Groq API, OpenAI integrations
-- **Authentication**: Clerk Auth, Supabase Auth
-- **Build Tools**: Vite
-- **Version Control**: Git, GitHub
+### DevOps & Tools
+<img height="50" src="https://skillicons.dev/icons?i=docker,git,github" />
+
+### Authentication & Security
+- **Clerk** — Modern authentication
+- **Supabase Auth** — Open-source Firebase alternative
 
 ## 📌 Featured Projects
 
@@ -63,11 +66,12 @@ TypeScript-based product in development
 
 ## 💡 Expertise Areas
 - **Full-Stack Development**: End-to-end application architecture
-- **Frontend**: Modern React patterns, performance optimization
-- **Backend**: Scalable APIs, database design, authentication flows
+- **Frontend**: React, Next.js, Tailwind CSS, responsive design
+- **Backend**: Node.js, Express, FastAPI, REST APIs, scalable architecture
+- **Databases**: MongoDB, PostgreSQL, MySQL, Redis caching
+- **AI Integration**: LLM APIs, Meta Llama-3, Groq inference
 - **Blockchain**: Smart contracts, decentralized applications
-- **AI Integration**: LLM APIs, prompt engineering
-- **DevOps**: Containerization, deployment pipelines
+- **DevOps**: Docker containerization, deployment pipelines
 
 ## 🤝 Connect With Me
 <p>
