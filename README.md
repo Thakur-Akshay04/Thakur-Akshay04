@@ -40,11 +40,7 @@ I am passionate about creating high-performance digital experiences, experimenti
 ### DevOps & Tools
 | Docker | Git | GitHub | Clerk |
 |:---:|:---:|:---:|:---:|
-| <img height="50" src="https://skillicons.dev/icons?i=docker" title="Docker" /> | <img height="50" src="https://skillicons.dev/icons?i=git" title="Git" /> | <img height="50" src="https://skillicons.dev/icons?i=github" title="GitHub" /> | <img height="50" src="https://skillicons.dev/icons?i=clerk" title="Clerk" /> |
-
-### Authentication & Security
-- **Clerk** — Modern authentication solutions
-- **Supabase Auth** — Open-source Firebase alternative
+| <img height="50" src="https://skillicons.dev/icons?i=docker" title="Docker" /> | <img height="50" src="https://skillicons.dev/icons?i=git" title="Git" /> | <img height="50" src="https://skillicons.dev/icons?i=github" title="GitHub" /> | <img height="50" src="https://skillicons.dev/icons?i=clerk" title="Clerk" /> 
 
 ## 🌐 Portfolio & Links
 - 🔗 **[thakurakshay.dev](https://thakurakshay.dev/)** — Personal portfolio & projects
