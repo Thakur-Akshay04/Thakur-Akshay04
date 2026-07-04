@@ -25,7 +25,7 @@ I am passionate about creating high-performance digital experiences, experimenti
 ### Backend & APIs
 | Node.js | Express.js | FastAPI | REST APIs |
 |:---:|:---:|:---:|:---:|
-| <img height="50" src="https://skillicons.dev/icons?i=nodejs" title="Node.js" /> | <img height="50" src="https://skillicons.dev/icons?i=express" title="Express.js" /> | <img height="50" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" /> | <svg height="50" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" title="REST APIs"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm0 21c-4.97 0-9-4.03-9-9s4.03-9 9-9 9 4.03 9 9-4.03 9-9 9zm-1.5-13.5v6.75l5.25-3.375L10.5 7.5z" fill="#FF6C37"></path></svg> |
+| <img height="50" src="https://skillicons.dev/icons?i=nodejs" title="Node.js" /> | <img height="50" src="https://skillicons.dev/icons?i=express" title="Express.js" /> | <img height="50" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" /> | <img height="50" src="data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm0 21c-4.97 0-9-4.03-9-9s4.03-9 9-9 9 4.03 9 9-4.03 9-9 9zm-1.5-13.5v6.75l5.25-3.375L10.5 7.5z' fill='%23FF6C37'/%3E%3C/svg%3E" title="REST APIs" /> |
 
 ### Databases & Cache
 | MongoDB | PostgreSQL | MySQL | Redis |
@@ -40,7 +40,7 @@ I am passionate about creating high-performance digital experiences, experimenti
 ### DevOps & Tools
 | Docker | Git | GitHub | Clerk |
 |:---:|:---:|:---:|:---:|
-| <img height="50" src="https://skillicons.dev/icons?i=docker" title="Docker" /> | <img height="50" src="https://skillicons.dev/icons?i=git" title="Git" /> | <img height="50" src="https://skillicons.dev/icons?i=github" title="GitHub" /> | <svg height="50" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" title="Clerk"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm0 21c-4.97 0-9-4.03-9-9s4.03-9 9-9 9 4.03 9 9-4.03 9-9 9zm-1.5-13.5v6.75l5.25-3.375L10.5 7.5z" fill="#FF6C37"></path></svg> |
+| <img height="50" src="https://skillicons.dev/icons?i=docker" title="Docker" /> | <img height="50" src="https://skillicons.dev/icons?i=git" title="Git" /> | <img height="50" src="https://skillicons.dev/icons?i=github" title="GitHub" /> | <img height="50" src="data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm0 21c-4.97 0-9-4.03-9-9s4.03-9 9-9 9 4.03 9 9-4.03 9-9 9zm-1.5-13.5v6.75l5.25-3.375L10.5 7.5z' fill='%23FF6C37'/%3E%3C/svg%3E" title="Clerk" /> |
 
 ## 🌐 Portfolio & Links
 - 🔗 **[thakurakshay.dev](https://thakurakshay.dev/)** — Personal portfolio & projects
