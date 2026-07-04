@@ -15,7 +15,7 @@ I am passionate about creating high-performance digital experiences, experimenti
 ### Languages
 | TypeScript | JavaScript | Python | HTML5 |
 |:---:|:---:|:---:|:---:|
-| <img height="50" src="https://skillicons.dev/icons?i=ts" title="TypeScript" /> | <img height="50" src="https://skillicons.dev/icons?i=js" title="JavaScript" /> | <img height="50" src="https://skillicons.dev/icons?i=python" title="Python" /> | <img height="50" src="https://skillicons.dev/icons?i=html5" title="HTML5" /> |
+| <img height="50" src="https://skillicons.dev/icons?i=ts" title="TypeScript" /> | <img height="50" src="https://skillicons.dev/icons?i=js" title="JavaScript" /> | <img height="50" src="https://skillicons.dev/icons?i=python" title="Python" /> | <img height="50" src="https://skillicons.dev/icons?i=html" title="HTML5" /> |
 
 ### Frontend Development
 | React.js | Next.js | Tailwind CSS | CSS3 |
@@ -25,7 +25,7 @@ I am passionate about creating high-performance digital experiences, experimenti
 ### Backend & APIs
 | Node.js | Express.js | FastAPI | REST APIs |
 |:---:|:---:|:---:|:---:|
-| <img height="50" src="https://skillicons.dev/icons?i=nodejs" title="Node.js" /> | <img height="50" src="https://skillicons.dev/icons?i=express" title="Express.js" /> | <img height="50" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" /> | <img height="50" src="https://skillicons.dev/icons?i=postman" title="REST APIs" /> |
+| <img height="50" src="https://skillicons.dev/icons?i=nodejs" title="Node.js" /> | <img height="50" src="https://skillicons.dev/icons?i=express" title="Express.js" /> | <img height="50" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" /> | <img height="50" src="https://skillicons.dev/icons?i=rest" title="REST APIs" /> |
 
 ### Databases & Cache
 | MongoDB | PostgreSQL | MySQL | Redis |
@@ -40,7 +40,7 @@ I am passionate about creating high-performance digital experiences, experimenti
 ### DevOps & Tools
 | Docker | Git | GitHub | Clerk |
 |:---:|:---:|:---:|:---:|
-| <img height="50" src="https://skillicons.dev/icons?i=docker" title="Docker" /> | <img height="50" src="https://skillicons.dev/icons?i=git" title="Git" /> | <img height="50" src="https://skillicons.dev/icons?i=github" title="GitHub" /> | <img height="50" src="https://skillicons.dev/icons?i=clerk" title="Clerk" /> 
+| <img height="50" src="https://skillicons.dev/icons?i=docker" title="Docker" /> | <img height="50" src="https://skillicons.dev/icons?i=git" title="Git" /> | <img height="50" src="https://skillicons.dev/icons?i=github" title="GitHub" /> | <img height="50" src="https://skillicons.dev/icons?i=clerk" title="Clerk" /> |
 
 ## 🌐 Portfolio & Links
 - 🔗 **[thakurakshay.dev](https://thakurakshay.dev/)** — Personal portfolio & projects
