@@ -1,4 +1,4 @@
-# Hi there, I'm Akshay Singh Thakur 👋
+# Hi there, I'm Akshay 👋
 
 Full-stack developer crafting modern interfaces, APIs, and AI-powered experiences
 
