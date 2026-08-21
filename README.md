@@ -42,9 +42,8 @@ I am passionate about creating high-performance digital experiences, experimenti
 |:---:|:---:|:---:|
 | <img height="50" src="https://skillicons.dev/icons?i=docker" title="Docker" /> | <img height="50" src="https://skillicons.dev/icons?i=git" title="Git" /> | <img height="50" src="https://cdn.simpleicons.org/clerk" title="Clerk" /> |
 
-## 🌐 Portfolio & Links
+## 🌐 Portfolio
 - 🔗 **[thakurakshay.dev](https://thakurakshay.dev/)** — Personal portfolio & projects
-- 💻 **[GitHub Profile](https://github.com/Thakur-Akshay04)** — All projects & contributions
 
 
 ## 💡 Core Competencies
